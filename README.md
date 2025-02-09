@@ -12,7 +12,11 @@ This is an adaptation of [**AdaSpeech**](https://arxiv.org/pdf/2103.00993) train
 
 ![Acoustic Embedding](./assets/acoustic_embed.png)
 
-# References
+## References
 - [AdaSpeech: Adaptive text to speech for custom voice](https://arxiv.org/pdf/2103.00993.pdf).
 - [ming024's implementation](https://github.com/ming024/FastSpeech2)
 - [rishikksh20's AdaSpeech implementation](https://github.com/rishikksh20/AdaSpeech)
+
+## License  
+This repository is based on [AdaSpeech](https://github.com/rishikksh20/AdaSpeech), which is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).  
+The modifications made by Majid Adibian are licensed under the Apache License 2.0 as well.
